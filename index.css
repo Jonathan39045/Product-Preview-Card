@@ -104,10 +104,11 @@ height:100%;
         margin-top:0%;
         margin-left:0%;
         margin-right:0%;
+        padding:10px;
     }
 }
 
 @media all and (max-width:767px)
 {
-    
+
 }
